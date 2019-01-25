@@ -40,7 +40,7 @@ freely, subject to the following restrictions:
 | .gitignore | Git ignores the files in this file |
 | ToolLib.pas | Toollib unit |
 | Main.pas | The main view of the programme |
-| CheeckFont.dpk | The compiler project file |
-| CheeckFont.dproj | The MSBUILD project file |
+| RegisterKey.dpk | The compiler project file |
+| RegisterKey.dproj | The MSBUILD project file |
 | README.md | The readme for this project |
 
